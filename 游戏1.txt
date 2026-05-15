@@ -1,0 +1,11 @@
+site9-arg/
+├── index.html          # 首页（入口）
+├── auth.html           # 验证页
+├── test01.html         # 测试 1
+├── phase2.html         # 第二幕
+├── profile.html        # 个性化测试
+├── mirror.html         # 镜像页
+├── wiki.html           # 公司内部 Wiki
+├── assets/
+│   └── style.css       # 全局样式（可选）
+└── README.md           # 项目说明
